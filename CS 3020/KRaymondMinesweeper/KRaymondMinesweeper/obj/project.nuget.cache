@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5UG3f8vt/ATaqGbMurDqq4BgCDc3quERTAm0X8F7J17sCn87g4X14cLOYgjszZLFhjSK6DYQqzR0sFJ6LzSjA==",
+  "success": true,
+  "projectFilePath": "E:\\CS 3020\\KRaymondMinesweeper\\KRaymondMinesweeper\\KRaymondMinesweeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

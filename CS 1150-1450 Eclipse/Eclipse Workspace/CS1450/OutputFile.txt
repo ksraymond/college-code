@@ -1,0 +1,2 @@
+This text will now be written to the file
+This text is also written to the file

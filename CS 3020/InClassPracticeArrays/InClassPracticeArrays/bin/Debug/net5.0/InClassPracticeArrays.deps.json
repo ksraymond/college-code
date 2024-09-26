@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InClassPracticeArrays/1.0.0": {
+        "runtime": {
+          "InClassPracticeArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InClassPracticeArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

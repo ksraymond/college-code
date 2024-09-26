@@ -1,0 +1,40 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: Lifeexpectancy ~ Country + (1 | Schooling)
+   Data: schoolingDataTenCountries
+
+REML criterion at convergence: 475.1
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.22741 -0.37374 -0.05548  0.43589  2.22447 
+
+Random effects:
+ Groups    Name        Variance Std.Dev.
+ Schooling (Intercept) 2.1767   1.4754  
+ Residual              0.9154   0.9568  
+Number of obs: 136, groups:  Schooling, 72
+
+Fixed effects:
+                   Estimate Std. Error t value
+(Intercept)         57.8111     0.3924  147.33
+CountryAustralia    23.5669     0.7098   33.20
+CountryBelgium      21.8207     0.6702   32.56
+CountryCanada       22.9468     0.7352   31.21
+CountryGermany      21.3952     0.6534   32.74
+CountryGuatemala    11.5577     0.6087   18.99
+CountryNetherlands  21.2257     0.7103   29.88
+CountryNigeria      -7.8081     0.4517  -17.29
+CountryPakistan      7.6995     0.5012   15.36
+CountrySerbia       16.3264     0.6608   24.71
+
+Correlation of Fixed Effects:
+            (Intr) CntryA CntryB CntryC CntryGr CntryGt CntryNt CntryNg CntryP
+ContryAstrl -0.553                                                            
+CountryBlgm -0.585  0.324                                                     
+CountryCand -0.534  0.295  0.736                                              
+ContryGrmny -0.601  0.332  0.532  0.515                                       
+CountryGtml -0.546  0.302  0.320  0.291  0.328                                
+CntryNthrln -0.552  0.305  0.416  0.394  0.658   0.302                        
+CountryNigr -0.555  0.307  0.325  0.296  0.333   0.521   0.307                
+ContryPkstn -0.569  0.315  0.333  0.304  0.342   0.350   0.314   0.441        
+CountrySerb -0.594  0.328  0.348  0.317  0.357   0.324   0.328   0.330   0.338

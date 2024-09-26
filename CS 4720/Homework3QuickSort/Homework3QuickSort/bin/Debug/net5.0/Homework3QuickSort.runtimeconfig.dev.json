@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\keato\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keato\\.nuget\\packages"
+    ]
+  }
+}

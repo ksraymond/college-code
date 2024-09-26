@@ -1,0 +1,38 @@
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.exe
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.deps.json
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.runtimeconfig.json
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.runtimeconfig.dev.json
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.dll
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\ref\Challenge7-RPGUI.dll
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.pdb
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.AssemblyReference.cache
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7_RPGUI.Form1.resources
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7_RPGUI.Properties.Resources.resources
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.GenerateResource.cache
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.AssemblyInfoInputs.cache
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.AssemblyInfo.cs
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.CoreCompileInputs.cache
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.dll
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\ref\Challenge7-RPGUI.dll
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.pdb
+E:\CS 3020\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.genruntimeconfig.cache
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.exe
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.deps.json
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.runtimeconfig.json
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.dll
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\ref\Challenge7-RPGUI.dll
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\bin\Debug\net5.0-windows\Challenge7-RPGUI.pdb
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7_RPGUI.Form1.resources
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7_RPGUI.Properties.Resources.resources
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.AssemblyInfo.cs
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.dll
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\ref\Challenge7-RPGUI.dll
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.pdb
+\\Mac\Home\Desktop\Challenge7-RPGUI\Challenge7-RPGUI\obj\Debug\net5.0-windows\Challenge7-RPGUI.genruntimeconfig.cache

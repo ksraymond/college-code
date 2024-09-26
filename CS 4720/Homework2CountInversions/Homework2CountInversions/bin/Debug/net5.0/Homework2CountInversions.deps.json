@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Homework2CountInversions/1.0.0": {
+        "runtime": {
+          "Homework2CountInversions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework2CountInversions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

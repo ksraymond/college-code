@@ -1,0 +1,16 @@
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.exe
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.deps.json
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.runtimeconfig.json
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.runtimeconfig.dev.json
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.dll
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\ref\InClassPracticeArrays.dll
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\bin\Debug\net5.0\InClassPracticeArrays.pdb
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.csproj.AssemblyReference.cache
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.AssemblyInfoInputs.cache
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.AssemblyInfo.cs
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.csproj.CoreCompileInputs.cache
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.dll
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\ref\InClassPracticeArrays.dll
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.pdb
+D:\CS 3020\InClassPracticeArrays\InClassPracticeArrays\obj\Debug\net5.0\InClassPracticeArrays.genruntimeconfig.cache

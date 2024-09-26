@@ -1,0 +1,16 @@
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.exe
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.deps.json
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.runtimeconfig.json
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.runtimeconfig.dev.json
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.dll
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\ref\Homework2CountInversions.dll
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\bin\Debug\net5.0\Homework2CountInversions.pdb
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.csproj.AssemblyReference.cache
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.AssemblyInfoInputs.cache
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.AssemblyInfo.cs
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.csproj.CoreCompileInputs.cache
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.dll
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\ref\Homework2CountInversions.dll
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.pdb
+D:\CS 4720\Homework2CountInversions\Homework2CountInversions\obj\Debug\net5.0\Homework2CountInversions.genruntimeconfig.cache

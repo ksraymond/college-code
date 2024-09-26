@@ -1,0 +1,28 @@
+{
+    "id": "E2C7FCED",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1682014697022.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "27da06a67de743d6b4a67c71644d5f3b",
+        "name": "tsneOutput",
+        "title": "tsneOutput",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682014697022,
+    "read_only": false,
+    "read_only_alternatives": []
+}

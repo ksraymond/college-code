@@ -1,0 +1,16 @@
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.exe
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.deps.json
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.runtimeconfig.json
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.runtimeconfig.dev.json
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.dll
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\ref\Challenge6.dll
+E:\CS 3020\Challenge6\Challenge6\bin\Debug\net5.0\Challenge6.pdb
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.csproj.AssemblyReference.cache
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.AssemblyInfoInputs.cache
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.AssemblyInfo.cs
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.csproj.CoreCompileInputs.cache
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.dll
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\ref\Challenge6.dll
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.pdb
+E:\CS 3020\Challenge6\Challenge6\obj\Debug\net5.0\Challenge6.genruntimeconfig.cache

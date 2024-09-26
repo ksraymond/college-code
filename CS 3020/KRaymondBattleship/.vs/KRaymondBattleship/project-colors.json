@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d66b17e6-74ae-4dea-86ab-b132c45ab4ee": {
+      "ProjectGuid": "d66b17e6-74ae-4dea-86ab-b132c45ab4ee",
+      "DisplayName": "KRaymondBattleship",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

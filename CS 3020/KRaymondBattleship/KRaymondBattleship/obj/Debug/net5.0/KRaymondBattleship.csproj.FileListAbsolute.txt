@@ -1,0 +1,16 @@
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.exe
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.deps.json
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.runtimeconfig.json
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.runtimeconfig.dev.json
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.dll
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\ref\KRaymondBattleship.dll
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\bin\Debug\net5.0\KRaymondBattleship.pdb
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.csproj.AssemblyReference.cache
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.AssemblyInfoInputs.cache
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.AssemblyInfo.cs
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.csproj.CoreCompileInputs.cache
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.dll
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\ref\KRaymondBattleship.dll
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.pdb
+D:\CS 3020\KRaymondBattleship\KRaymondBattleship\obj\Debug\net5.0\KRaymondBattleship.genruntimeconfig.cache

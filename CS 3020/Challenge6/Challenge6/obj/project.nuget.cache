@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "meVf6TX/jF87PWAUKKwkVX0vfjOl9EZaqj0zw7hnuqPX06boOx8ftxMSNatr3Du4+gAxo0b/2y3Wi2f3Tw/Abg==",
+  "success": true,
+  "projectFilePath": "E:\\CS 3020\\Challenge6\\Challenge6\\Challenge6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

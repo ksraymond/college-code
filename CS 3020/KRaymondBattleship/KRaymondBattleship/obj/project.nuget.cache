@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKVnzPRH8K+TmkOLhgp8AFqSnqivV3h1A5ns1NqVb6QFTYAB5LuTvqpBqZf7VJtyb46hZoL0/MRAU3xUObCxVg==",
+  "success": true,
+  "projectFilePath": "E:\\CS 3020\\KRaymondBattleship\\KRaymondBattleship\\KRaymondBattleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

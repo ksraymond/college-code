@@ -1,0 +1,16 @@
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.exe
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.deps.json
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.runtimeconfig.json
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.runtimeconfig.dev.json
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.dll
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\ref\Homework3QuickSort.dll
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\bin\Debug\net5.0\Homework3QuickSort.pdb
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.csproj.AssemblyReference.cache
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.AssemblyInfoInputs.cache
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.AssemblyInfo.cs
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.csproj.CoreCompileInputs.cache
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.dll
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\ref\Homework3QuickSort.dll
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.pdb
+D:\CS 4720\Homework3QuickSort\Homework3QuickSort\obj\Debug\net5.0\Homework3QuickSort.genruntimeconfig.cache

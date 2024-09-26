@@ -1,2 +1,49 @@
 # college-code
-All code that I wrote in college
+## All code that I wrote in college
+
+## Legend
+- CS 1150
+    - Principles of Computer Science
+    - Eclipse Java project with intro code
+- CS 1450
+    - Data Structures and Algorithms
+    - Eclipse Java project with more advanced code learning about more advanced data structures
+- CS 2060
+    - Programming with C
+    - Basic C code with their corresponding .exe files
+- CS 2160
+    - Assembly Language
+    - C Code that works with computer memory/bitwise operations
+- CS 3020
+    - Advanced OO Tech Using C#/.Net
+    - Object oriented projects in C#
+- CS 3060
+    - Object Oriented Programming with C++
+    - Various C++ programs
+- CS 3080
+    - Python Programming
+    - Various Python scripts from intro to multithreading to file manipulation
+- CS 3400
+    - UX/UI Design
+    - UX/UI design project for an app using android studio
+- CS 4100
+    - Compiler Design 1
+    - A recursive descent pseudo compiler written in Java
+- CS 4200
+    - Computer Architecture 1
+    - Assignments done on a soft processor written by the professor in C
+- CS 4420
+    - Database Systems 1
+    - SQL queries to read, normalize, and query a basic database
+- CS 4470
+    - Data Visualization
+    - Data visualizations and analysis using R and Tableau
+- CS 4700
+    - Computability, Automata and Formal Languages
+    - A program written in C# to implement a Deterministic Finite Automaton
+- CS 4720
+    - Design and Analysis of Algorithms
+    - A couple of algorithms like quick sort written in C#
+- ECE 1001
+    - Introduction to Robotics
+    - Arduino Code

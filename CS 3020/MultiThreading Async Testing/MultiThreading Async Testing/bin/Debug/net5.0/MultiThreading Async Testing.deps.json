@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiThreading Async Testing/1.0.0": {
+        "runtime": {
+          "MultiThreading Async Testing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiThreading Async Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3d6VRipuUAc1OH7AOPY+Rl3G3qyGMyu6634ZhwFiqlcd1HRyEu0xPRFFw25XaGyecqUepOnRK3yfhkN90UWQSg==",
+  "success": true,
+  "projectFilePath": "E:\\CS 3020\\LINQPractice\\LINQPractice\\LINQPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\keatonraymond\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "86B52B84",
+    "path": "/Volumes/K_SANDISK/CS 4470/Keaton Raymond HW2 t-SNE/importData.R",
+    "project_path": "importData.R",
+    "type": "r_source",
+    "hash": "2890963385",
+    "contents": "",
+    "dirty": false,
+    "created": 1679711291700.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1679711538,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1679711539616,
+    "read_only": false,
+    "read_only_alternatives": []
+}

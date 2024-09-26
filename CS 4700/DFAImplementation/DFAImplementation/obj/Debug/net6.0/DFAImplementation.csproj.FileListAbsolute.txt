@@ -1,0 +1,15 @@
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\DFAImplementation.exe
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\DFAImplementation.deps.json
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\DFAImplementation.runtimeconfig.json
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\DFAImplementation.dll
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\ref\DFAImplementation.dll
+D:\CS 4700\DFAImplementation\DFAImplementation\bin\Debug\net6.0\DFAImplementation.pdb
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.csproj.AssemblyReference.cache
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.AssemblyInfoInputs.cache
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.AssemblyInfo.cs
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.csproj.CoreCompileInputs.cache
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.dll
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\ref\DFAImplementation.dll
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.pdb
+D:\CS 4700\DFAImplementation\DFAImplementation\obj\Debug\net6.0\DFAImplementation.genruntimeconfig.cache

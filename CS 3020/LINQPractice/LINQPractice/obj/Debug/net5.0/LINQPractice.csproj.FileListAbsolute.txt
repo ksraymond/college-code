@@ -1,0 +1,16 @@
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.exe
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.deps.json
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.runtimeconfig.json
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.runtimeconfig.dev.json
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.dll
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\ref\LINQPractice.dll
+D:\CS 3020\LINQPractice\LINQPractice\bin\Debug\net5.0\LINQPractice.pdb
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.csproj.AssemblyReference.cache
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.AssemblyInfoInputs.cache
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.AssemblyInfo.cs
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.csproj.CoreCompileInputs.cache
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.dll
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\ref\LINQPractice.dll
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.pdb
+D:\CS 3020\LINQPractice\LINQPractice\obj\Debug\net5.0\LINQPractice.genruntimeconfig.cache

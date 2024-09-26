@@ -1,0 +1,16 @@
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.exe
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.deps.json
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.runtimeconfig.json
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.runtimeconfig.dev.json
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.dll
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\ref\Challenge8-ASync.dll
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\bin\Debug\net5.0\Challenge8-ASync.pdb
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.csproj.AssemblyReference.cache
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.AssemblyInfoInputs.cache
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.AssemblyInfo.cs
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.csproj.CoreCompileInputs.cache
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.dll
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\ref\Challenge8-ASync.dll
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.pdb
+E:\CS 3020\Challenge8-ASync\Challenge8-ASync\obj\Debug\net5.0\Challenge8-ASync.genruntimeconfig.cache

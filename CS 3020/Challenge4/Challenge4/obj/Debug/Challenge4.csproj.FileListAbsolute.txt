@@ -1,0 +1,10 @@
+D:\CS 3020\Challenge4\Challenge4\bin\Debug\Challenge4.exe.config
+D:\CS 3020\Challenge4\Challenge4\bin\Debug\Challenge4.exe
+D:\CS 3020\Challenge4\Challenge4\bin\Debug\Challenge4.pdb
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.csproj.AssemblyReference.cache
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.Form1.resources
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.Properties.Resources.resources
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.csproj.GenerateResource.cache
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.csproj.CoreCompileInputs.cache
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.exe
+D:\CS 3020\Challenge4\Challenge4\obj\Debug\Challenge4.pdb

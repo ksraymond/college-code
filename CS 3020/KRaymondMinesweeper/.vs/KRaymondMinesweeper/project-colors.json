@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc6e372-ced4-4f3e-9f38-85104beda9fd": {
+      "ProjectGuid": "ebc6e372-ced4-4f3e-9f38-85104beda9fd",
+      "DisplayName": "KRaymondMinesweeper",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

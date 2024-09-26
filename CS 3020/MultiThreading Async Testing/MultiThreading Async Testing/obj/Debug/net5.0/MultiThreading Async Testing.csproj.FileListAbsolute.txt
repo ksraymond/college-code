@@ -1,0 +1,16 @@
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.exe
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.deps.json
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.runtimeconfig.json
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.runtimeconfig.dev.json
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.dll
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\ref\MultiThreading Async Testing.dll
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\bin\Debug\net5.0\MultiThreading Async Testing.pdb
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.csproj.AssemblyReference.cache
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.AssemblyInfoInputs.cache
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.AssemblyInfo.cs
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.csproj.CoreCompileInputs.cache
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.dll
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\ref\MultiThreading Async Testing.dll
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.pdb
+E:\CS 3020\MultiThreading Async Testing\MultiThreading Async Testing\obj\Debug\net5.0\MultiThreading Async Testing.genruntimeconfig.cache

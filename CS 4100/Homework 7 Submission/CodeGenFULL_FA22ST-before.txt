@@ -1,0 +1,23 @@
+Index     Symbol                   Usage     dataType     Value
+0         -1                       C         I            -1
+1         1                        C         I            1
+2         Codegen                  P         I            0
+3         Full FALL22 Test File    C         S            Full FALL22 Test File
+4         factorial                V         I            0
+5         Enter the value 5 for n: C         S            Enter the value 5 for n:
+6         n                        V         I            0
+7         count                    V         I            0
+8         BEwoPYrd                 V         I            0
+9         O0GNk3zP                 V         I            0
+10        9VMsuu01                 V         I            0
+11        The calculation of 5! is:C         S            The calculation of 5! is:
+12                                 C         S             
+13        MyS28d1F                 V         I            0
+14        2                        C         I            2
+15        qPiAvAYO                 V         I            0
+16        BhiW2Sax                 V         I            0
+17        Count - 2 is greater than 2C         S            Count - 2 is greater than 2
+18        Count - 2 is less than or equal to 2C         S            Count - 2 is less than or equal to 2
+19        Y09NkJNk                 V         I            0
+20        Count is:                C         S            Count is: 
+21        All done.                C         S            All done.

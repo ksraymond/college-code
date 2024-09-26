@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\keato\Desktop\O07Classes\O07Classes"/>
+		<item value="C:\Users\keato\Desktop\O06Arrays\O06Arrays"/>
+		<item value="C:\Users\keato\Desktop\O05Methods"/>
+		<item value="C:\Users\keato\Desktop\O04NumStrings"/>
+		<item value="C:\Users\keato\Downloads\O03Loops"/>
+		<item value="C:\Users\keato\Downloads\O02Booleans"/>
+		<item value="D:\O01Basics"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="209"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="546"/>
+		<item key="DIALOG_Y_ORIGIN" value="190"/>
+		<item key="DIALOG_WIDTH" value="828"/>
+		<item key="DIALOG_HEIGHT" value="480"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+</section>

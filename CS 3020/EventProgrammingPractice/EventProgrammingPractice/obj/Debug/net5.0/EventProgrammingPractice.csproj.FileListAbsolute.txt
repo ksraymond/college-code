@@ -1,0 +1,16 @@
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.exe
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.deps.json
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.runtimeconfig.json
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.runtimeconfig.dev.json
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.dll
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\ref\EventProgrammingPractice.dll
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\bin\Debug\net5.0\EventProgrammingPractice.pdb
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.csproj.AssemblyReference.cache
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.AssemblyInfoInputs.cache
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.AssemblyInfo.cs
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.csproj.CoreCompileInputs.cache
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.dll
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\ref\EventProgrammingPractice.dll
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.pdb
+D:\CS 3020\EventProgrammingPractice\EventProgrammingPractice\obj\Debug\net5.0\EventProgrammingPractice.genruntimeconfig.cache

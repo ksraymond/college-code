@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Final.LastNameFirstNameFinal&apos; to &apos;RaymondKeatonFinal&apos;&#x0D;&#x0A;- Original project: &apos;CS1450&apos;&#x0D;&#x0A;- Original element: &apos;Final.LastNameFirstNameFinal&apos;&#x0D;&#x0A;- Renamed element: &apos;Final.RaymondKeatonFinal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LastNameFirstNameFinal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;Final{LastNameFirstNameFinal.java[LastNameFirstNameFinal" matchStrategy="1" name="RaymondKeatonFinal" qualified="false" references="true" similarDeclarations="false" stamp="1589225529845" textual="false" version="1.0"/>
+</session>

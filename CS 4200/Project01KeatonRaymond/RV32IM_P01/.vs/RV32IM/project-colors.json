@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be29b45c-b2f1-4062-8f72-4015a537deb4": {
+      "ProjectGuid": "be29b45c-b2f1-4062-8f72-4015a537deb4",
+      "DisplayName": "RV32IM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

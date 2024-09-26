@@ -1,0 +1,275 @@
+Keaton Raymond, Last 4 of student number: 5013, CS4100, FALL 2022
+Parsing ./CodeGenBASIC_FA22.txt
+0001 {This file includes the basic WRITELN, READLN, and EXPRESSION tests.
+./CodeGenBASIC_FA22
+0002 }
+0003 UNIT CodegenBASIC;
+	UNIT_ | 	0015 | 	UNIT
+--> Entering Program
+	IDENT | 	0050 | 	CodegenBASIC
+	SEMCO | 	0036 | 	;
+0004 begin
+	BEGIN | 	0011 | 	begin
+ --> Entering Block
+  --> Entering BlockBody
+0005 WRITELN("BASIC TEST File FA22");
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	BASIC TEST File FA22
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0006 
+0007 WRITELN("String printout:  Hello World");
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	String printout:  Hello World
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0008 
+0009 a := 2;
+	IDENT | 	0050 | 	a
+   --> Entering Statement
+    --> Entering handleAssignment
+     --> Entering Variable
+	EQUAL | 	0037 | 	:=
+     <-- Exiting Variable
+	_INT_ | 	0051 | 	2
+     --> Entering SimpleExpression
+      --> Entering Term
+       --> Entering Factor
+        --> Entering UnsignedConstant
+         --> Entering UnsignedNumber
+	SEMCO | 	0036 | 	;
+         <-- Exiting UnsignedNumber
+        <-- Exiting UnsignedConstant
+       <-- Exiting Factor
+      <-- Exiting Term
+     <-- Exiting SimpleExpression
+    <-- Exiting handleAssignment
+   <-- Exiting Statement
+0010 b := 3;
+	IDENT | 	0050 | 	b
+   --> Entering Statement
+    --> Entering handleAssignment
+     --> Entering Variable
+	EQUAL | 	0037 | 	:=
+     <-- Exiting Variable
+	_INT_ | 	0051 | 	3
+     --> Entering SimpleExpression
+      --> Entering Term
+       --> Entering Factor
+        --> Entering UnsignedConstant
+         --> Entering UnsignedNumber
+	SEMCO | 	0036 | 	;
+         <-- Exiting UnsignedNumber
+        <-- Exiting UnsignedConstant
+       <-- Exiting Factor
+      <-- Exiting Term
+     <-- Exiting SimpleExpression
+    <-- Exiting handleAssignment
+   <-- Exiting Statement
+0011 a := a *(3+b)+ a + 2*b/2 - 1;  {The result: 16}
+	IDENT | 	0050 | 	a
+   --> Entering Statement
+    --> Entering handleAssignment
+     --> Entering Variable
+	EQUAL | 	0037 | 	:=
+     <-- Exiting Variable
+	IDENT | 	0050 | 	a
+     --> Entering SimpleExpression
+      --> Entering Term
+       --> Entering Factor
+        --> Entering Variable
+	MULTI | 	0031 | 	*
+        <-- Exiting Variable
+       <-- Exiting Factor
+       --> Entering Mulop
+	OPENP | 	0034 | 	(
+       <-- Exiting Mulop
+       --> Entering Factor
+	_INT_ | 	0051 | 	3
+        --> Entering SimpleExpression
+         --> Entering Term
+          --> Entering Factor
+           --> Entering UnsignedConstant
+            --> Entering UnsignedNumber
+	ADD__ | 	0032 | 	+
+            <-- Exiting UnsignedNumber
+           <-- Exiting UnsignedConstant
+          <-- Exiting Factor
+         <-- Exiting Term
+         --> Entering Addop
+	IDENT | 	0050 | 	b
+         <-- Exiting Addop
+         --> Entering Term
+          --> Entering Factor
+           --> Entering Variable
+	CLOSP | 	0035 | 	)
+           <-- Exiting Variable
+          <-- Exiting Factor
+         <-- Exiting Term
+        <-- Exiting SimpleExpression
+	ADD__ | 	0032 | 	+
+       <-- Exiting Factor
+      <-- Exiting Term
+      --> Entering Addop
+	IDENT | 	0050 | 	a
+      <-- Exiting Addop
+      --> Entering Term
+       --> Entering Factor
+        --> Entering Variable
+	ADD__ | 	0032 | 	+
+        <-- Exiting Variable
+       <-- Exiting Factor
+      <-- Exiting Term
+      --> Entering Addop
+	_INT_ | 	0051 | 	2
+      <-- Exiting Addop
+      --> Entering Term
+       --> Entering Factor
+        --> Entering UnsignedConstant
+         --> Entering UnsignedNumber
+	MULTI | 	0031 | 	*
+         <-- Exiting UnsignedNumber
+        <-- Exiting UnsignedConstant
+       <-- Exiting Factor
+       --> Entering Mulop
+	IDENT | 	0050 | 	b
+       <-- Exiting Mulop
+       --> Entering Factor
+        --> Entering Variable
+	DIVID | 	0030 | 	/
+        <-- Exiting Variable
+       <-- Exiting Factor
+       --> Entering Mulop
+	_INT_ | 	0051 | 	2
+       <-- Exiting Mulop
+       --> Entering Factor
+        --> Entering UnsignedConstant
+         --> Entering UnsignedNumber
+	SUBTR | 	0033 | 	-
+         <-- Exiting UnsignedNumber
+        <-- Exiting UnsignedConstant
+       <-- Exiting Factor
+      <-- Exiting Term
+      --> Entering Addop
+	_INT_ | 	0051 | 	1
+      <-- Exiting Addop
+      --> Entering Term
+       --> Entering Factor
+        --> Entering UnsignedConstant
+         --> Entering UnsignedNumber
+	SEMCO | 	0036 | 	;
+         <-- Exiting UnsignedNumber
+        <-- Exiting UnsignedConstant
+       <-- Exiting Factor
+      <-- Exiting Term
+     <-- Exiting SimpleExpression
+    <-- Exiting handleAssignment
+   <-- Exiting Statement
+0012 WRITELN("a is now ");
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	a is now 
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0013 WRITELN(a);
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	IDENT | 	0050 | 	a
+	CLOSP | 	0035 | 	)
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0014 WRITELN("Input a value of 25 for a: ");
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	Input a value of 25 for a: 
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0015 READLN(a);
+	READL | 	0010 | 	READLN
+   --> Entering Statement
+    --> Entering HandleRead
+	OPENP | 	0034 | 	(
+	IDENT | 	0050 | 	a
+	CLOSP | 	0035 | 	)
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleRead
+   <-- Exiting Statement
+0016 WRITELN("After READLN, a is now ");
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	After READLN, a is now 
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0017 WRITELN(a);
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	IDENT | 	0050 | 	a
+	CLOSP | 	0035 | 	)
+	SEMCO | 	0036 | 	;
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+0018 WRITELN("All done.")
+	WRITE | 	0009 | 	WRITELN
+   --> Entering Statement
+    --> Entering HandleWrite
+	OPENP | 	0034 | 	(
+	STRNG | 	0053 | 	All done.
+     --> Entering StringConstant
+	CLOSP | 	0035 | 	)
+     <-- Exiting StringConstant
+0019 end. 
+	END__ | 	0012 | 	end
+    <-- Exiting HandleWrite
+   <-- Exiting Statement
+	PERIO | 	0048 | 	.
+  <-- Exiting BlockBody
+ <-- Exiting Block
+Success.
+<-- Exiting Program
+BASIC TEST File FA22
+String printout:  Hello World
+a is now 
+16
+Input a value of 25 for a: 
+After READLN, a is now 
+25
+All done.
+Execution terminated by program STOP.
+Done.

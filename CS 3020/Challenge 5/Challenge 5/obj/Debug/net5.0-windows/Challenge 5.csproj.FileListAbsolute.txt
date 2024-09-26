@@ -1,0 +1,18 @@
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.exe
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.deps.json
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.runtimeconfig.json
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.runtimeconfig.dev.json
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.dll
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\ref\Challenge 5.dll
+X:\CS 3020\Challenge 5\Challenge 5\bin\Debug\net5.0-windows\Challenge 5.pdb
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.csproj.AssemblyReference.cache
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge_5.Form1.resources
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.csproj.GenerateResource.cache
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.GeneratedMSBuildEditorConfig.editorconfig
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.AssemblyInfoInputs.cache
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.AssemblyInfo.cs
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.csproj.CoreCompileInputs.cache
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.dll
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\ref\Challenge 5.dll
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.pdb
+X:\CS 3020\Challenge 5\Challenge 5\obj\Debug\net5.0-windows\Challenge 5.genruntimeconfig.cache

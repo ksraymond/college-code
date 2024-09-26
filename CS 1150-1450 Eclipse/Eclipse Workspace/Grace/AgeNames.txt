@@ -1,0 +1,7 @@
+List of people equal to: 25
+Mason : 25
+List of people equal to: 44
+Bubba : 44
+Howard : 44
+List of people equal to: 1
+Nobody matched the given age.
